@@ -40,7 +40,7 @@ cd FreeCAD
 git clone https://github.com/FreeCAD/FreeCAD.git FreeCAD-source
 ```
 
-![[Pasted image 20250516095146.png]]
+![image](img/Pastedimage20250516095146.png)
 
 To do this, install git for windows if you haven't already done so
 [https://git-scm.com/downloads/win](https://git-scm.com/downloads/win)
