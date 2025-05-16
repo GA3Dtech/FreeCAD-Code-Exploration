@@ -25,6 +25,13 @@ FreeCAD is free and open-source software (FOSS), meaning it comes with freedoms 
 ## Official website
 [https://www.freecad.org/](https://www.freecad.org/)
 
+## Usefull Developpers Ressources
+
+the latest and most up-to-date grouping to help new developers
+
+[https://freecad.github.io/DevelopersHandbook/](https://freecad.github.io/DevelopersHandbook/)
+[https://github.com/FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook)
+
 ## Where to Start as a Contributor ?
 
 Let's start by downloading the source code on our own machine.
@@ -34,6 +41,7 @@ Let's start by downloading the source code on our own machine.
 $ git clone https://github.com/FreeCAD/FreeCAD.git
 cd FreeCAD
 ```
+![image](img/Pastedimage20250516095148.png)
 
 ### Windows
 ```
@@ -44,3 +52,16 @@ git clone https://github.com/FreeCAD/FreeCAD.git FreeCAD-source
 
 To do this, install git for windows if you haven't already done so
 [https://git-scm.com/downloads/win](https://git-scm.com/downloads/win)
+
+
+## 1st Exploration
+
+on May 16, 2025, the complete repository is about 2.7 Gb.
+
+Version management takes up most of the folder's volume, followed by src, which is mainly made up of mods that correspond to workbenches.
+![SizeDepot](img/SizeGitDEpot.png)
+![SizeSrc](img/SizeSrc.png)
+
+visualization of deposit evolution with gource
+
+![Gource Example](img/GourceFreeCAD.png)
