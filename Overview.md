@@ -60,6 +60,8 @@ on May 16, 2025, the complete repository is about 2.7 Gb.
 
 Version management takes up most of the folder's volume, followed by src, which is mainly made up of mods that correspond to workbenches.
 ![SizeDepot](img/SizeGitDEpot.png)
+
+
 ![SizeSrc](img/SizeSrc.png)
 
 visualization of deposit evolution with gource
