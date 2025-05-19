@@ -32,6 +32,8 @@ the latest and most up-to-date grouping to help new developers
 [https://freecad.github.io/DevelopersHandbook/](https://freecad.github.io/DevelopersHandbook/)
 [https://github.com/FreeCAD/DevelopersHandbook](https://github.com/FreeCAD/DevelopersHandbook)
 
+the most technical stuff :
+[https://freecad.github.io/DevelopersHandbook/technical/](https://freecad.github.io/DevelopersHandbook/technical/)
 ## Where to Start as a Contributor ?
 
 Let's start by downloading the source code on our own machine.
