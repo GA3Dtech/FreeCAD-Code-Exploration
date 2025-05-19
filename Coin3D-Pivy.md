@@ -146,7 +146,7 @@ if __name__ == "__main__":
 
 ## Equivalent Code in a FreeCAD Macro
 
-![coin3d FreeCAD](coin3D-FreeCAD-20250519-214439.png)
+![coin3d FreeCAD](img/coin3D-FreeCAD-20250519-214439.png)
 
 ``` python
 import FreeCAD as App
